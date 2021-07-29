@@ -11,10 +11,10 @@ void putarr(int arr[], int size)
 
 int		main (void)
 {
-	int tab[] = {1, 2, 3, 4};
+	int tab[] = {1, 2, 3, 4, 5};
 	int size;
 	
-	size = 4;
+	size = 5;
 
 	printf("Original: ");
 	putarr(tab, size);
